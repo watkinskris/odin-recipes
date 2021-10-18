@@ -1,0 +1,1 @@
+For this project from The Odin Project, I will be creating a recipe website.  It will showcase my ability to create links, do lists, and add images.  It will also show off my skills using Git and GitHub.
