@@ -5,17 +5,30 @@ body {
     margin: 0;
 }
 .header {
-   text-align: center;
+    text-align: center;
    font-weight: bold;
-   background-color: azure; 
+   background-color: #97d0e7; 
    font-family: "Yellowtail", cursive;
    font-size: 48px;
    max-height: 40%;
    max-width: 100%;
+    display: flex;
 }
 
 .header h1 {
     margin: 0;
     padding: 5%;
+    padding-left: 15%;
+   
+}
+.recipes{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-top: 10%;
+}
+
+.recipe-section p{
+    padding-top: 10%;
 }
 
