@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+
+body {
+    margin: 0;
+}
+.header {
+   text-align: center;
+   font-weight: bold;
+   background-color: azure; 
+   font-family: "Yellowtail", cursive;
+   font-size: 48px;
+   max-height: 40%;
+   max-width: 100%;
+}
+
+.header h1 {
+    margin: 0;
+    padding: 5%;
+}
+
